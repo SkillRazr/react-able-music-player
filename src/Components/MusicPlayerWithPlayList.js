@@ -15,13 +15,13 @@ const MusicPlayerWithPlayList = () => {
           <span
             className="able-source"
             data-type="audio/mpeg"
-            data-src="ableplayer/media/paulallen.mp3"
+            data-src="ableplayer1/media/paulallen.mp3"
             aria-hidden="true"
           ></span>
           <span
             className="able-source"
             data-type="audio/ogg"
-            data-src="ableplayer/media/paulallen.ogg"
+            data-src="ableplayer1/media/paulallen.ogg"
             aria-hidden="true"
           ></span>
           <button>The Paul Allen Song</button>
@@ -30,13 +30,13 @@ const MusicPlayerWithPlayList = () => {
           <span
             className="able-source"
             data-type="audio/mpeg"
-            data-src="ableplayer/media/php70alpha.mp3"
+            data-src="ableplayer1/media/php70alpha.mp3"
             aria-hidden="true"
           ></span>
           <span
             className="able-source"
             data-type="audio/ogg"
-            data-src="ableplayer/media/php70alpha.ogg"
+            data-src="ableplayer1/media/php70alpha.ogg"
             aria-hidden="true"
           ></span>
           <button>PHP 7.0 Alpha</button>
@@ -45,13 +45,13 @@ const MusicPlayerWithPlayList = () => {
           <span
             className="able-source"
             data-type="audio/mpeg"
-            data-src="ableplayer/media/frenchsong.mp3"
+            data-src="ableplayer1/media/frenchsong.mp3"
             aria-hidden="true"
           ></span>
           <span
             className="able-source"
             data-type="audio/ogg"
-            data-src="ableplayer/media/frenchsong.ogg"
+            data-src="ableplayer1/media/frenchsong.ogg"
             aria-hidden="true"
           ></span>
           <button lang="fr">Une Chanson Française</button>
@@ -69,13 +69,13 @@ const MusicPlayerWithPlayList = () => {
           <span
             className="able-source"
             data-type="audio/mpeg"
-            data-src="ableplayer/media/everyday.mp3"
+            data-src="ableplayer1/media/everyday.mp3"
             aria-hidden="true"
           ></span>
           <span
             className="able-source"
             data-type="audio/ogg"
-            data-src="ableplayer/media/everyday.ogg"
+            data-src="ableplayer1/media/everyday.ogg"
             aria-hidden="true"
           ></span>
           <button>Every Day</button>
