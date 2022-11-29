@@ -1,5 +1,6 @@
 import "./App.css";
 import MusicPlayer from "./Components/MusicPlayer";
+import MusicPlayerWithPlayList from "./Components/MusicPlayerWithPlayList";
 
 function App() {
   return (
@@ -7,7 +8,8 @@ function App() {
       <header className="App-header1" style={{ marginTop: "200px" }}>
         React Music Player (AblePlayer)
       </header>
-      <MusicPlayer />
+      {/* <MusicPlayer /> */}
+      <MusicPlayerWithPlayList />
     </div>
   );
 }
